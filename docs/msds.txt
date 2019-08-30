@@ -1,4 +1,4 @@
 http://mymsds.de.henkelgroup.net/mymsds/Search?BUSAREA=0006&VKORG=3300&DOCTYPE=MSDS_UT&COUNTRY=DE&MATNR=149981&LANG=EN&FORMAT=PDF
 SOP II
-	I use P12, transaction YCPM and YC38 (second for several items)
+	I use P12, transaction YCPM and YC38 (second for several items)   ---> non so he fine fara
 	cambio
