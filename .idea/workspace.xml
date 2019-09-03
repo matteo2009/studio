@@ -22,6 +22,9 @@
       </map>
     </option>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="202527be-8670-4523-b1ab-6b49952d5769" />
+  </component>
   <component name="ProjectId" id="1QKVpffwF7f3HKiDh21cEm4WSHJ" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -178,7 +181,8 @@
       <workItem from="1567157806177" duration="1003000" />
       <workItem from="1567519468152" duration="2162000" />
       <workItem from="1567523470374" duration="526000" />
-      <workItem from="1567524130181" duration="3343000" />
+      <workItem from="1567524130181" duration="4302000" />
+      <workItem from="1567546200471" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="0002 test cambio">
       <created>1567157888254</created>
@@ -215,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567526525198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="0005 madded vaadin">
+      <created>1567544295010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567544295010</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
