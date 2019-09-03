@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f058b369-358a-48c9-9f37-9ff4f07c94c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.studio [clean:clean]">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -179,7 +178,7 @@
       <workItem from="1567157806177" duration="1003000" />
       <workItem from="1567519468152" duration="2162000" />
       <workItem from="1567523470374" duration="526000" />
-      <workItem from="1567524130181" duration="567000" />
+      <workItem from="1567524130181" duration="2218000" />
     </task>
     <task id="LOCAL-00001" summary="0002 test cambio">
       <created>1567157888254</created>
@@ -202,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567521916615</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0005 madded vaadin">
+      <created>1567524733112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567524733112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
