@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f058b369-358a-48c9-9f37-9ff4f07c94c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/studio.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -183,6 +184,7 @@
       <workItem from="1567523470374" duration="526000" />
       <workItem from="1567524130181" duration="4302000" />
       <workItem from="1567546200471" duration="267000" />
+      <workItem from="1567581140749" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="0002 test cambio">
       <created>1567157888254</created>
